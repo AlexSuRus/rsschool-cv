@@ -16,3 +16,5 @@ Sample code: `will add later`
 Work experience: worked on the layout of the site for the Lyceum of Lobnya, using html, css and javascript.
 
 Education: Bachelor of Applied Mathematics from the University of MISIS (Moscow)
+
+English level: B2
